@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Somesh1997/React_Learning_Project_TODO/static/css/main.8606a4dc.chunk.css",
+    "main.js": "/Somesh1997/React_Learning_Project_TODO/static/js/main.83752acb.chunk.js",
+    "main.js.map": "/Somesh1997/React_Learning_Project_TODO/static/js/main.83752acb.chunk.js.map",
+    "runtime-main.js": "/Somesh1997/React_Learning_Project_TODO/static/js/runtime-main.328b5b4b.js",
+    "runtime-main.js.map": "/Somesh1997/React_Learning_Project_TODO/static/js/runtime-main.328b5b4b.js.map",
+    "static/js/2.5f4e433f.chunk.js": "/Somesh1997/React_Learning_Project_TODO/static/js/2.5f4e433f.chunk.js",
+    "static/js/2.5f4e433f.chunk.js.map": "/Somesh1997/React_Learning_Project_TODO/static/js/2.5f4e433f.chunk.js.map",
+    "static/js/3.f11e4b40.chunk.js": "/Somesh1997/React_Learning_Project_TODO/static/js/3.f11e4b40.chunk.js",
+    "static/js/3.f11e4b40.chunk.js.map": "/Somesh1997/React_Learning_Project_TODO/static/js/3.f11e4b40.chunk.js.map",
+    "index.html": "/Somesh1997/React_Learning_Project_TODO/index.html",
+    "static/css/main.8606a4dc.chunk.css.map": "/Somesh1997/React_Learning_Project_TODO/static/css/main.8606a4dc.chunk.css.map",
+    "static/js/2.5f4e433f.chunk.js.LICENSE.txt": "/Somesh1997/React_Learning_Project_TODO/static/js/2.5f4e433f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.328b5b4b.js",
+    "static/js/2.5f4e433f.chunk.js",
+    "static/css/main.8606a4dc.chunk.css",
+    "static/js/main.83752acb.chunk.js"
+  ]
+}
